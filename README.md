@@ -1,3 +1,3 @@
-# JANNLab - Neural Network Framework for Java
+## JANNLab - Neural Network Framework for Java
 
 
