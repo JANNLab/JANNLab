@@ -24,6 +24,7 @@ If you use JANNLAb for your research, please cite the paper:
 
 
 JANNLab is released under the terms of the GNU General Public License (GPL), version 3 or later. 
+
 See [http://www.gnu.org/licenses/gpl-3.0.txt](http://www.gnu.org/licenses/gpl-3.0.txt) for details.
 
 
