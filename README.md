@@ -1,4 +1,5 @@
 <img src="misc/logo/jannlab_logo.png" alt="JANNLab logo" width="500" height="187">
+
 Copyright (C) 2012-2013 Sebastian Otte
 
 ## What is JANNLab?
