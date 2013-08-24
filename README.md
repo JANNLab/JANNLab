@@ -6,6 +6,7 @@ JANNLab is a Java framework for modeling, simulating and application of artifici
 light-weight, which makes it suitable for mobile device implementations.
 
 If you use JANNLAb for your research, please cite the paper:
+
     @inproceedings{otte_jannlab_2013,
         title     = {JANNLab Neural Network Framework for Java},
         booktitle = {Poster Proceedings Conference {MLDM} 2013},
