@@ -32,6 +32,6 @@ The following builds contain sources, compiled libs for Java 1.7 and a lot of ex
 
 [JANNLAb 0.10-alpha](https://github.com/JANNLab/JANNLab/blob/master/builds/jannlab-0.10-alpha.tar.gz?raw=true)
 
-## Stuff
+## Media
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/-jFAV5pgweI?rel=0" frameborder="0" allowfullscreen></iframe>
+[Geometry leaning with a multilayer perceptron](http://www.youtube.com/watch?v=-jFAV5pgweI)
