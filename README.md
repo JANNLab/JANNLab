@@ -1,4 +1,4 @@
-<img src="misc/logo/jannlab_logo.png" alt="JANNLab logo" width="500" height="187">
+<img src="misc/logo/jannlab_logo.png" alt="JANNLab logo" width="500" height="187" />
 
 Copyright (C) 2012-2013 Sebastian Otte
 
@@ -34,4 +34,4 @@ The following builds contain sources, compiled libs for Java 1.7 and a lot of ex
 
 ## Media
 
-![Geometry leaning with a multilayer perceptron](http://www.youtube.com/watch?v=-jFAV5pgweI "Geometry leaning with a multilayer perceptron")
+<img src="https://i1.ytimg.com/vi/-jFAV5pgweI/mqdefault.jpg" title="Geometry leaning with a multilayer perceptron" href="http://www.youtube.com/watch?v=-jFAV5pgweI" />
