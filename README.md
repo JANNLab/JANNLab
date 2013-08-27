@@ -34,4 +34,5 @@ The following builds contain sources, compiled libs for Java 1.7 and a lot of ex
 
 ## Media
 
-<a href="http://www.youtube.com/watch?v=-jFAV5pgweI"><img src="https://i1.ytimg.com/vi/-jFAV5pgweI/mqdefault.jpg" title="Geometry leaning with a multilayer perceptron"></a>
+<a href="http://www.youtube.com/watch?v=-jFAV5pgweI"><img src="https://i1.ytimg.com/vi/-jFAV5pgweI/mqdefault.jpg" "Geometry leaning with a multilayer perceptron"></a>
+Video: Geometry leaning with a multilayer perceptron
