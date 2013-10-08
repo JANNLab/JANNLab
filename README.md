@@ -35,7 +35,7 @@ The following builds contain sources, compiled libs for Java 1.7 and a lot of ex
 ## Media
 
 <figure>
-  <a href="http://www.youtube.com/watch?v=-jFAV5pgweI"><img src="http://img.youtube.com/vi/-jFAV5pgweI/mqdefault.jpg" alt="Geometry Learning"/></a><br/>
+  <a href="http://www.youtube.com/watch?v=42_UEttQIeE"><img src="http://img.youtube.com/vi/42_UEttQIeE/mqdefault.jpg" alt="Geometry Learning"/></a><br/>
   <figcaption>Video: Geometry leaning with a multilayer perceptron</figcaption>
 </figure> 
 
