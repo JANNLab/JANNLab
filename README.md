@@ -30,7 +30,7 @@ JANNLab is released under the terms of the GNU General Public License (GPL), ver
 
 The following builds contain sources, compiled libs for Java 1.7 and a lot of example code.
 
-[JANNLAb 0.10-alpha](https://github.com/JANNLab/JANNLab/blob/master/builds/jannlab-0.10-alpha.tar.gz?raw=true)
+[JANNLab 0.10-alpha](https://github.com/JANNLab/JANNLab/blob/master/builds/jannlab-0.10-alpha.tar.gz?raw=true)
 
 
 
