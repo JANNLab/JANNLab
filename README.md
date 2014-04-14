@@ -1,6 +1,6 @@
 <img src="misc/logo/jannlab_logo.png" alt="JANNLab logo" width="500" height="187"/>
 
-Copyright (C) 2012-2013 Sebastian Otte
+Copyright (C) 2012-2014 Sebastian Otte
 
 ## What is JANNLab?
 
@@ -32,12 +32,6 @@ The following builds contain sources, compiled libs for Java 1.7 and a lot of ex
 
 [JANNLAb 0.10-alpha](https://github.com/JANNLab/JANNLab/blob/master/builds/jannlab-0.10-alpha.tar.gz?raw=true)
 
-## Media
-
-<figure>
-  <a href="http://www.youtube.com/watch?v=42_UEttQIeE"><img src="http://img.youtube.com/vi/42_UEttQIeE/mqdefault.jpg" alt="Geometry Learning"/></a><br/>
-  <figcaption>Video: Geometry leaning with a multilayer perceptron</figcaption>
-</figure> 
 
 
 
