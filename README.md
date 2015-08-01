@@ -1,13 +1,13 @@
 <img src="misc/logo/jannlab_logo.png" alt="JANNLab logo" width="500" height="187"/>
 
-Copyright (C) 2012-2014 Sebastian Otte
+Copyright (C) 2012-2015 Sebastian Otte
 
 ## What is JANNLab?
 
 JANNLab is a Java framework for modeling, simulating and application of artificial neural networks. It supports feed forward networks, recurrent networks as well as Long Short-Term Memory networks and bidirectional architectures. The framework provides free modeling but also real-time efficiency. It is compatible with android and is
 light-weight, which makes it suitable for mobile device implementations.
 
-If you use JANNLAb for your research, please cite the paper:
+If you use JANNLab for your research, please cite the paper:
 
     @inproceedings{otte_jannlab_2013,
         title     = {JANNLab Neural Network Framework for Java},
